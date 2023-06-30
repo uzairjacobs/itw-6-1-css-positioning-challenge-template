@@ -4,8 +4,8 @@
 */
 #back-to-top {
 position: fixed;
-bottom: 5px;
-right: 0px;
+bottom: 80px;
+right: 80px;
 }
 
 /* Write CSS here to make navbar sticky to the top of the page */
